@@ -6,7 +6,7 @@
 - 💻 i create fullstack web apps 
 - 🎨 i love 3d desgin and intuitive UI
 - 👩‍💻 check out my [portfolio website](https://haileyphham.github.io/portfolio/)
-- 📩 reach out to me at haikleyy@berkeley.edu
+- 📩 reach out to me at haileyphham@berkeley.edu
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/haihpham) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/haileyphham) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:haikleyy@berkeley.edu) 
